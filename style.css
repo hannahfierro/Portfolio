@@ -1,3 +1,6 @@
 container-fluid-1{
   background-color:Gainsboro;
 }
+body {
+  background-image: url("imggrey.jpg");
+}
