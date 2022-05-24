@@ -2,5 +2,14 @@ container-fluid-1{
   background-color:Gainsboro;
 }
 body {
-  background-image: url("imggrey.jpg");
+  background-image: url("gray.jpg");
+
+}
+h1 {
+  font-family: serif;
+  text-shadow: 200px;
+  text-align: center;
+}
+.pagination{
+  background-color: pink;
 }
