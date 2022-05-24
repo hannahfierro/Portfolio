@@ -2,7 +2,7 @@ container-fluid-1{
   background-color:Gainsboro;
 }
 body {
-  background-image: url("gray.jpg");
+  background-image: url("concrete.jpg");
 
 }
 h1 {
@@ -12,4 +12,8 @@ h1 {
 }
 .pagination{
   background-color: pink;
+}
+.navbar{
+  font-family: serif;
+  text-align:right;
 }
