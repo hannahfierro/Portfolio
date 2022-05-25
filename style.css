@@ -17,3 +17,12 @@ h1 {
   font-family: serif;
   text-align:right;
 }
+.card-text{
+  font-family: Garamond, serif;
+  font-size: 25px;
+
+}
+.card-title{
+  font-family: Garamond, serif;
+  font-size: 40px;
+}
